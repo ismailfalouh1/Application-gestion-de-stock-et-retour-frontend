@@ -1,0 +1,32 @@
+.main-container {
+  margin: 50px;
+}
+.min-height-600 {
+  min-height: 600px;
+}
+.no-flex-wrap {
+  flex-wrap: inherit !important;
+}
+// Area Chart
+.chart-area {
+  position: relative;
+  height: 10rem;
+  width: 100%;
+
+}
+
+// Bar Chart
+.chart-bar {
+  position: relative;
+  height: 10rem;
+  width: 100%;
+
+}
+
+// Pie Chart
+.chart-pie {
+  position: relative;
+  height: 15rem;
+  width: 100%;
+
+}
